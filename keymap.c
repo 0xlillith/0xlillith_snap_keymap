@@ -16,6 +16,7 @@
 #include QMK_KEYBOARD_H
 #include "common/remote_kb.h"
 // #include "oled_graphics.h"
+//PENDING use oled_graphics header
 #include "bongo.h"
 
 // clang-format off
